@@ -75,15 +75,14 @@ h2 {
 }
 
 
- 
+
 
 .flex-container-for-cards {
-    justify-content: space-between;
     display: flex;
     flex-wrap: wrap;
     width: 90vw;
+    justify-content: space-around;
 }
-
 
 
  

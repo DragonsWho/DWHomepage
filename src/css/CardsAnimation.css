@@ -1,16 +1,15 @@
 /* Base styles */
 .card {
-    color: var(--clr-neutral-100); 
+    color: var(--clr-neutral-100);
     background-size: cover;
     padding: 6rem 0 0;
     border-radius: 0.5rem;
     transition: transform 400ms ease;
     width: 400px;
-    aspect-ratio: 9 / 7; 
-    clip-path: inset(0 round 0.5rem); 
-    margin:10px;
-
-
+    aspect-ratio: 9 / 7;
+    clip-path: inset(0 round 0.5rem);
+    margin: 10px;
+    flex: 0 0 400px; /* Изменено */
 }
 
     .card:hover,
