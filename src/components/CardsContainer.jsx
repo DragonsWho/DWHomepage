@@ -187,8 +187,8 @@ export default function CardsContainer() {
                 />
                 <CYOA
                     Image="Kidnapped"
-                    Title="EDC by Dragon's Whore"
-                    Description=<div>You're gonna have to work really hard to get free!<br /> <br /> </div>
+                    Title="Kidnapped"
+                    Description=<div>You're gonna have to work really hard to get free!<br /> <br /> <br /> </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Kidnapped/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/zzo7r1/kidnapped_v07_wip/" 
                     Tags="SlutPOV, Dominated by Futas"
@@ -197,7 +197,7 @@ export default function CardsContainer() {
                     Image="BossWhore"
                     Title="Boss Whore"
                     Description=<div>
-                        Well, the Office Slut sequel is done!<br /> <br /> </div>
+                        Well, the Office Slut sequel is done!<br /> <br />  <br /></div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Boss_Whore/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/10lbmp7/boss_whore_v09/"
                     Tags="FemPOV, Bottom, Top, MazeShow"
@@ -213,7 +213,7 @@ export default function CardsContainer() {
                 <CYOA
                     Image="OfficeSlut"
                     Title="Office Slut"
-                    Description=<div>A simple CYOA inspired by a shitpost on reddit. Made it literally in half a day, but I think this is the final version.<br /> <br /> </div>
+                    Description=<div>A simple CYOA inspired by a shitpost on reddit. Made it literally in half a day, but I think this is the final version.<br />   </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Office%20Slut/index.html"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/zmz93n/office_slut_cyoa_v1/"
                     Button3="Kr."
@@ -223,7 +223,7 @@ export default function CardsContainer() {
                 <CYOA
                     Image="LureV006Alpha"
                     Title="Lure v0.06 Alpha"
-                    Description=<div>At the same time, it is a test of the pen and an advertisement for a my dream CYOA.<br /> <br /> </div>
+                    Description=<div>At the same time, it is a test of the pen and an advertisement for a my dream CYOA.<br /> <br />  </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Alpha/index.html"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/z9t1wy/lure_v006_alpha_wip/" 
                     Tags="Lure, Succa, Must be finished"

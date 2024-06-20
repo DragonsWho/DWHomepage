@@ -3,6 +3,7 @@ import './css/App.css';
 import Navbar from './components/Navbar.jsx';
 import AdAndChat from './components/AdAndChat.jsx';
 import CardsContainer from './components/CardsContainer.jsx';
+import Footer from './components/Footer.jsx';
 
 export default function App() {
     const [isLoaded, setIsLoaded] = useState(false);
@@ -24,8 +25,12 @@ export default function App() {
             <Navbar />
             <AdAndChat />
             <CardsContainer />
-            <br /><br /><br />
-            <h1>Footer</h1>
+            <br /> 
+  
+            <Footer/>
+
+
+             
         </>
     );
 }

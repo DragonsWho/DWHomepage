@@ -5,11 +5,13 @@
     padding: 6rem 0 0;
     border-radius: 0.5rem;
     transition: transform 400ms ease;
+    padding-top: 40px;
     width: 400px;
-    aspect-ratio: 9 / 7;
     clip-path: inset(0 round 0.5rem);
     margin: 10px;
-    flex: 0 0 400px; /* Изменено */
+    flex: 0 0 400px;
+    max-height: 300px;  
+
 }
 
     .card:hover,
@@ -94,9 +96,9 @@
     text-decoration: none;
     color: var(--clr-neutral-900);
     background-color: var(--clr-accent-400);
-    padding: 0.5em 1.25em;
+    padding: 0.5em 1.0em;
     border-radius: 0.25rem;
-    margin-right: 1em;
+    margin-right: 0.8em;
 }
 
     .button:hover,

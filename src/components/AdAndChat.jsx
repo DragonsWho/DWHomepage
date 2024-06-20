@@ -7,7 +7,7 @@ export default function AdAndChat() {
             <div className="ad-container">
                 <h2>COMISSIONS OPEN!</h2> You can find me on Discord as "dragons_whore"
 
-                <h2>Donate</h2>
+                <h2>Support me</h2>
 
                 <p>Boosty - <a href="https://boosty.to/dragonswhore">Link!</a>  </p>
 
@@ -15,7 +15,7 @@ export default function AdAndChat() {
 
                 <p>Bitcoins - 16UzGZWTXmSkeQb2367PPjpsSMTjLsN3Rg </p>
 
-                <p>An obvious way to increase my motivation and allow me to spend more time on CYOA. And big and beautiful CYOA actually takes a hell of a lot of effort </p>
+                <p>An obvious way to increase my motivation and allow me to spend more time on CYOA. <br /> Because creating big and beautiful CYOAs actually takes a heck of a lot of effort! </p>
             </div>
             <div className="chat-container">
                 <iframe className="cbox-chat"
