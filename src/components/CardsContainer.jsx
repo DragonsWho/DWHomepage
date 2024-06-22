@@ -42,7 +42,7 @@ export default function CardsContainer() {
                     Image="PetsPet"
                     Title="Pet's Pet"
                     Description=<div>This time you don't just get to feel like a bitch, you get to meet the doggies!<br /> <br /></div>
-                    GameLink="https://dragonswhore-cyoas.neocities.org/Arabian_nights/"
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Pet's_Pet/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1b2erl4/pets_pet_female_bitch_pov_bestiality_masochistic/"
                     Tags="Female Bitch POV, Bestiality, Smart Dog "
                 />
