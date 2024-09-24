@@ -40,17 +40,29 @@
     --clr-neutral-100: #d6d7dc;
     --clr-accent-400: #990000;
 }
- 
+
 
 body {
     background: var(--clr-neutral-900);
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 100%;
     min-width: 500px;
-    margin: auto;
+    margin: 0;
+    box-sizing: border-box;
 }
 
+.flex-container-for-cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
 
 
 h1 {
@@ -72,13 +84,7 @@ h2 {
 
 
 
-.flex-container-for-cards {
-    display: flex;
-    flex-wrap: wrap;
-    width: 90vw;
-    justify-content: space-around;
-    align-items: stretch;
-}
+
 
 
  

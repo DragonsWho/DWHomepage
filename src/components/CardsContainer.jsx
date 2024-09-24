@@ -5,11 +5,35 @@ import CYOA from "./Card"
 export default function CardsContainer() {
     return (
         <div  >
-        <div className="flex-container-for-cards">
+            <div className="flex-container-for-cards">
+                <CYOA       
+                    Image="DragonEcho"
+                    Title="Dragon Echo"
+                    Description = <div>Scaly tail, strong horns, and blazing flame! It's time to be a Dragon Girl!<br /><br />Commission by SuperB1tch</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Dragon_Echo/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1fn92zz/dragon_echo_dragongirlfuta_pov_big_masochistic/"
+                    Tags="DragonGirlPOV, Masochistic, Fluffy"
+                />
+                <CYOA
+                    Image="TheObelisk"
+                    Title="The Obelisk"
+                    Description=<div> It's just an Interactive Port, I added only a few options. <br /><br /> Commission by Dragonace111310</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/The_Obelisk/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1egve83/the_obelisk_first_two_layers_adventure_power_play/"
+                    Tags="Adventure, Power Play, not slutty"
+                />
+                <CYOA
+                    Image="FilthyWhore"
+                    Title="Filthy Whore"
+                    Description=<div> Alright, sluts, it's time to make some quick and dirty cash! <br /><br /> Commission by u/ColeDeucalion</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Filthy_Whore/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1e8y8r9/filthy_whore_slutpov_masochistic/"
+                    Tags="GirlPOV, Bottom, Masochistic"
+                />
                 <CYOA
                     Image="FluffyTail"
                     Title="Fluffy Tail"
-                    Description = <div> The foxiest, cutest and fluffiest CYOA ever!  <br /><br /> Commission by Kagami </div>
+                    Description=<div> The foxiest, cutest and fluffiest CYOA ever!  <br /><br /> Commission by Kagami </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Fluffy_Tail/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1dhjwu9/fluffy_tail_foxgirlpov_cute_fluffy/"
                     Tags="FoxGirlPOV, Cute, Fluffy"
@@ -73,7 +97,7 @@ export default function CardsContainer() {
                 <CYOA
                     Image="Saintess"
                     Title="Saintess"
-                    Description=<div>A translation of one of my all-time favorite CYOAs. <br />  a little DLC <br />   </div>
+                    Description=<div>A translation of one of my all-time favorite CYOAs. <br /><br /> Plus a little DLC <br />   </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Saintess/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/16f7mho/saintess_fempov_translation/"
                     Tags="FemPOV, Translation, Story"
@@ -91,7 +115,7 @@ export default function CardsContainer() {
                 <CYOA
                     Image="DemonGod"
                     Title="Demon-god of world creation"
-                    Description=<div>Another wonderful CYOA that I translated from Korean. <br />  <br /> </div>
+                    Description=<div>Another wonderful CYOA that I translated from Korean. <br />  <br /> <br /></div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/demon-god_of_world_creation_En/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/157ugu2/demongod_of_world_creation_fempov_translation_long/"
                     Tags="FemPOV, Translation, Big"
@@ -180,7 +204,7 @@ export default function CardsContainer() {
                 <CYOA
                     Image="LureP3Gimel"
                     Title="Lure p.3 Gimel"
-                    Description=<div> The third part! Update! Damn, folks, this isn't an edit of the previous version, it's a new part! Everything is new!  </div>
+                    Description=<div> The third part! Update! Damn, folks, this isn't an edit of the previous version, it's a new part! Everything is new! <br /><br /> </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Lure_p3_Gimel/"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/109dg4y/lure_p3_gimel_wip/" 
                     Tags="Lure, Succa, Must be finished"
@@ -213,7 +237,7 @@ export default function CardsContainer() {
                 <CYOA
                     Image="OfficeSlut"
                     Title="Office Slut"
-                    Description=<div>A simple CYOA inspired by a shitpost on reddit. Made it literally in half a day, but I think this is the final version.<br />   </div>
+                    Description=<div>A simple CYOA inspired by a shitpost on reddit. Made it literally in half a day, but I think this is the final version.<br /> <br />  </div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Office%20Slut/index.html"
                     PostLink="https://www.reddit.com/r/nsfwcyoa/comments/zmz93n/office_slut_cyoa_v1/"
                     Button3="Kr."

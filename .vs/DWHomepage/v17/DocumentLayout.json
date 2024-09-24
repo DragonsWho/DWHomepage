@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dw\\source\\repos\\reactproject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\components\\cardscontainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\components\\cardscontainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\components\\imageslist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\components\\imageslist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\css\\cardsanimation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -31,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\components\\adandchat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\components\\adandchat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|c:\\users\\dw\\source\\repos\\reactproject1\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4A554DA-A6EF-4F4D-87C4-8FD6E7A6FB9B}|DWHomepage.esproj|solutionrelative:src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,9 +37,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 329,
-          "SelectedChildIndex": 9,
+          "DockedHeight": 371,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T20:21:50.587Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -58,6 +67,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -65,87 +78,67 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launch.json",
-              "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\.vscode\\launch.json",
-              "RelativeDocumentMoniker": ".vscode\\launch.json",
-              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\.vscode\\launch.json",
-              "RelativeToolTip": ".vscode\\launch.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T19:04:06.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-20T00:15:12.816Z"
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ImagesList.jsx",
+              "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\ImagesList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ImagesList.jsx",
+              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\ImagesList.jsx",
+              "RelativeToolTip": "src\\components\\ImagesList.jsx",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-21T22:29:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CardsContainer.jsx",
               "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\CardsContainer.jsx",
               "RelativeDocumentMoniker": "src\\components\\CardsContainer.jsx",
               "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\CardsContainer.jsx",
               "RelativeToolTip": "src\\components\\CardsContainer.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-19T23:31:32.929Z"
+              "WhenOpened": "2024-06-19T23:31:32.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CardsAnimation.css",
               "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\css\\CardsAnimation.css",
               "RelativeDocumentMoniker": "src\\css\\CardsAnimation.css",
               "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\css\\CardsAnimation.css",
               "RelativeToolTip": "src\\css\\CardsAnimation.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-19T23:21:21.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Footer.jsx",
               "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\Footer.jsx",
               "RelativeDocumentMoniker": "src\\components\\Footer.jsx",
-              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\Footer.jsx*",
-              "RelativeToolTip": "src\\components\\Footer.jsx*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB7AAAA",
+              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\Footer.jsx",
+              "RelativeToolTip": "src\\components\\Footer.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-19T23:11:41.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T23:11:41.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdAndChat.jsx",
-              "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\AdAndChat.jsx",
-              "RelativeDocumentMoniker": "src\\components\\AdAndChat.jsx",
-              "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\components\\AdAndChat.jsx",
-              "RelativeToolTip": "src\\components\\AdAndChat.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAC+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-19T23:06:08.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\css\\App.css",
               "RelativeDocumentMoniker": "src\\css\\App.css",
               "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\css\\App.css",
               "RelativeToolTip": "src\\css\\App.css",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAwGEAAAAQAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-19T22:55:40.899Z"
             },
@@ -157,19 +150,24 @@
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\dw\\source\\repos\\reactproject1\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-19T22:50:36.96Z"
+              "WhenOpened": "2024-06-19T22:50:36.96Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 63,
+          "DockedHeight": 21,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

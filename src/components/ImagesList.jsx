@@ -1,4 +1,8 @@
-import FluffyTail from '../assets/Images/Fluffy_Tail.jpeg'; 
+
+import DragonEcho from '../assets/Images/Dragon_Echo.jpeg'; 
+import TheObelisk from '../assets/Images/The_Obelisk.jpeg';
+import FilthyWhore from '../assets/Images/Filthy_Whore.jpeg';
+import FluffyTail from '../assets/Images/Fluffy_Tail.jpeg';
 import BulliesToy from '../assets/Images/Bullies_Toy.jpeg'; 
 import CursedAPP from '../assets/Images/Cursed_APP.jpeg'; 
 import ArabianNights from '../assets/Images/Arabian_Nights.jpeg'; 
@@ -23,10 +27,13 @@ import Kidnapped from '../assets/Images/Kidnapped.jpeg';
 import BossWhore from '../assets/Images/Boss_Whore.jpeg';
 import LureV013BETA from '../assets/Images/Lure_V013_BETA.jpeg';
 import OfficeSlut from '../assets/Images/Office_Slut.jpeg';
-import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg'; 
+import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    DragonEcho,
+    TheObelisk,
+    FilthyWhore,
     FluffyTail,
     BulliesToy, 
     CursedAPP,
