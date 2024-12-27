@@ -1,4 +1,8 @@
 
+
+import PrincessQuest from '../assets/Images/Princess_Quest.jpeg'; 
+import FuckClub from '../assets/Images/Fuck_Club.jpeg'; 
+import CatalystofCHAOS from '../assets/Images/Catalyst_of_CHAOS.jpeg'; 
 import DragonEcho from '../assets/Images/Dragon_Echo.jpeg'; 
 import TheObelisk from '../assets/Images/The_Obelisk.jpeg';
 import FilthyWhore from '../assets/Images/Filthy_Whore.jpeg';
@@ -31,6 +35,9 @@ import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    PrincessQuest,
+    FuckClub,
+    CatalystofCHAOS,
     DragonEcho,
     TheObelisk,
     FilthyWhore,

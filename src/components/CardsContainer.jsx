@@ -7,6 +7,30 @@ export default function CardsContainer() {
         <div  >
             <div className="flex-container-for-cards">
                 <CYOA       
+                    Image="PrincessQuest"
+                    Title="Princess Quest"
+                    Description = <div>The throne's been taken, the crown is gone... but will that stop the true princess?<br /><br />Commission by Grim 12</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Princess_Quest/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1fn92zz/dragon_echo_dragongirlfuta_pov_big_masochistic/"
+                    Tags="PrincessPOV, Masochistic, Bad Ends"
+                />                
+                <CYOA       
+                    Image="FuckClub"
+                    Title="Fuck_Club"
+                    Description = <div>Hey, Anon, you like strip clubs and hookers, don't you? Then there's a job for you!<br /><br />Commission by Anon</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Fuck_Club/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1hdmwt2/fuck_club_male_pov_big_harem/"
+                    Tags="Male POV, Big, Harem"
+                />
+                <CYOA       
+                    Image="CatalystofCHAOS"
+                    Title="Catalyst of CHAOS"
+                    Description = <div>Oh, looks like you're going to be the spooky Dark Lord this time! Or rather, a rapist monster!<br /><br />Commission by Anonymous</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Catalyst_of_CHAOS/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1gtoz8n/catalyst_of_chaos_monster_pov_big_dominant_slutty/"
+                    Tags="MonsterPOV, Dominant, Slutty world"
+                />
+                <CYOA       
                     Image="DragonEcho"
                     Title="Dragon Echo"
                     Description = <div>Scaly tail, strong horns, and blazing flame! It's time to be a Dragon Girl!<br /><br />Commission by SuperB1tch</div>
