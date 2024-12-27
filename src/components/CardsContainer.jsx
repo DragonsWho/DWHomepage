@@ -11,7 +11,7 @@ export default function CardsContainer() {
                     Title="Princess Quest"
                     Description = <div>The throne's been taken, the crown is gone... but will that stop the true princess?<br /><br />Commission by Grim 12</div>
                     GameLink="https://dragonswhore-cyoas.neocities.org/Princess_Quest/"
-                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1fn92zz/dragon_echo_dragongirlfuta_pov_big_masochistic/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1hmurbl/princess_quest_princesspov_masochistic_bad_ends/"
                     Tags="PrincessPOV, Masochistic, Bad Ends"
                 />                
                 <CYOA       
