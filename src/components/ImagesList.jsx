@@ -1,5 +1,7 @@
 
 
+import BlackedSissy from '../assets/Images/Blacked_Sissy.jpeg'; 
+import Exorcist from '../assets/Images/Exorcist.jpeg'; 
 import PrincessQuest from '../assets/Images/Princess_Quest.jpeg'; 
 import FuckClub from '../assets/Images/Fuck_Club.jpeg'; 
 import CatalystofCHAOS from '../assets/Images/Catalyst_of_CHAOS.jpeg'; 
@@ -35,6 +37,8 @@ import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    BlackedSissy,
+    Exorcist,
     PrincessQuest,
     FuckClub,
     CatalystofCHAOS,

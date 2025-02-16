@@ -7,6 +7,24 @@ export default function CardsContainer() {
         <div  >
             <div className="flex-container-for-cards">
                 <CYOA       
+                    Image="BlackedSissy"
+                    Title="Blacked Sissy"
+                    Description = <div>Yeah, you got it! Lots of black dicks, brainwahsing, humiliation and even a chastity cage!<br /><br />Commission by u/MissXChange</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Princess_Quest/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1hmurbl/princess_quest_princesspov_masochistic_bad_ends/"
+                    Tags="Sissy POV, BBC, Masochistic"
+                />                
+                <CYOA       
+                    Image="Exorcist"
+                    Title="Nightmare Exorcist"
+                    Description = <div>A stunning dark and violent world in which you have to fight gwei! <br /><br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Exorcist/"
+                    PostLink="https://cyoa.cafe/game/lw9hn1ng21zhoe9"
+                    Tags="Translation, Dark, Slutty, Big"
+                    Button3Link="https://schaden.neocities.org/exorcist/"
+                    Button3="Kr."
+                />
+                <CYOA       
                     Image="PrincessQuest"
                     Title="Princess Quest"
                     Description = <div>The throne's been taken, the crown is gone... but will that stop the true princess?<br /><br />Commission by Grim 12</div>
