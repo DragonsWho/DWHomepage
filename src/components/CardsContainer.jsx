@@ -10,8 +10,8 @@ export default function CardsContainer() {
                     Image="BlackedSissy"
                     Title="Blacked Sissy"
                     Description = <div>Yeah, you got it! Lots of black dicks, brainwahsing, humiliation and even a chastity cage!<br /><br />Commission by u/MissXChange</div>
-                    GameLink="https://dragonswhore-cyoas.neocities.org/Princess_Quest/"
-                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1hmurbl/princess_quest_princesspov_masochistic_bad_ends/"
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Blacked_Sissy/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1iq6xzt/blacked_sissy_sissy_pov_bbc_masochistic_slutty_big/"
                     Tags="Sissy POV, BBC, Masochistic"
                 />                
                 <CYOA       
