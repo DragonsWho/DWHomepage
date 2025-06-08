@@ -6,7 +6,8 @@
     border-radius: 0.5rem;
     transition: transform 400ms ease;
     padding-top: 40px;
-    height: 500px;
+    height: 350px;
+    overflow: hidden;
     clip-path: inset(0 round 0.5rem);
     margin: 10px;
     flex: 0 1 400px;
@@ -23,7 +24,8 @@
     --padding: 1.5rem;
     padding: var(--padding);
     background: linear-gradient(hsl(0 0% 0% / 0), hsl(20 0% 0% / 0.3) 20%, hsl(0 0% 0% / 1));
-    overflow: hidden;
+    height: calc(100% - 6rem);
+    overflow-y: auto;
     transform: translateY(65%);
     transition: transform 400ms ease;
 }
