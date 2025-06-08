@@ -6,11 +6,10 @@
     border-radius: 0.5rem;
     transition: transform 400ms ease;
     padding-top: 40px;
-    width: 100%;
-    height: calc(100% / 4 * 3);
+    height: 500px;
     clip-path: inset(0 round 0.5rem);
     margin: 10px;
-    flex: 1 0 0;
+    flex: 0 1 400px;
     max-height: none;
     min-width: 400px; 
 }
@@ -24,6 +23,7 @@
     --padding: 1.5rem;
     padding: var(--padding);
     background: linear-gradient(hsl(0 0% 0% / 0), hsl(20 0% 0% / 0.3) 20%, hsl(0 0% 0% / 1));
+    overflow: hidden;
     transform: translateY(65%);
     transition: transform 400ms ease;
 }
