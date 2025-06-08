@@ -1,5 +1,6 @@
 
 
+import Contract from '../assets/Images/Contract.jpeg'; 
 import BlackedSissy from '../assets/Images/Blacked_Sissy.jpeg'; 
 import Exorcist from '../assets/Images/Exorcist.jpeg'; 
 import PrincessQuest from '../assets/Images/Princess_Quest.jpeg'; 
@@ -37,6 +38,7 @@ import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    Contract,
     BlackedSissy,
     Exorcist,
     PrincessQuest,
