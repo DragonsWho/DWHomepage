@@ -6,6 +6,39 @@ export default function CardsContainer() {
     return (
         <div  >
             <div className="flex-container-for-cards">
+
+
+
+                <CYOA       
+                    Image="VRSlut"
+                    Title="VRSlut"
+                    Description = <div>Dreaming of an ideal VRMMORPG tailored to all your tastes? Heh... here, they'll cater to your every kink!<br />Commission by barlog117</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Blacked_Sissy/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1iq6xzt/blacked_sissy_sissy_pov_bbc_masochistic_slutty_big/"
+                    Tags="FemPOV, Fantasy, EXTRA SLUTTY"
+                />                
+                <CYOA       
+                    Image="Colossus"
+                    Title="Colossus"
+                    Description = <div>Huge robots, huge monsters... Huge trouble! <br /><br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Colossus/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1l0xys4/colossus_dlc_mechs_fempov_translation/"
+                    Tags="Translation, FemPov, Mechs, Slutty"
+                    Button3Link="https://arca.live/b/cyoa/129187457"
+                    Button3="Kr."
+                />                
+                <CYOA       
+                    Image="Diver"
+                    Title="Diving Girl"
+                    Description = <div>Do you like the ocean and girls in swimsuits? What about underwater monsters? <br /><br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Diver_Girl/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1kh9ik3/diving_girl_of_the_aquarium_fempov_translation/"
+                    Tags="Translation, FemPOV, Ocean, Slutty"
+                    Button3Link="https://arca.live/b/cyoa/67012984"
+                    Button3="Kr."
+                />
+
+
                 <CYOA       
                     Image="BlackedSissy"
                     Title="Blacked Sissy"

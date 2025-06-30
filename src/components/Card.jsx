@@ -1,4 +1,6 @@
-﻿import React, { useState, useEffect } from 'react';
+﻿//Card.jsx
+
+import React, { useState, useEffect } from 'react';
 import CardImages from '../components/ImagesList';
 
 const CYOA = ({ Image, Title, Description, GameLink, PostLink, Tags, Button1, Button2, Button3, Button3Link }) => {

@@ -1,18 +1,23 @@
+ /* CardsAnimation.css*/
+
 /* Base styles */
 .card {
+    position: relative; /* <-- ВАЖНО: Делает карточку точкой отсчета */
     color: var(--clr-neutral-100);
     background-size: cover;
-    padding: 6rem 0 0;
+    background-position: center;
     border-radius: 0.5rem;
     transition: transform 400ms ease;
-    padding-top: 40px;
-    height: 350px;
     overflow: hidden;
     clip-path: inset(0 round 0.5rem);
-    margin: 10px;
-    flex: 0 1 400px;
-    max-height: none;
-    min-width: 400px; 
+
+    aspect-ratio: 1000 / 778; /* <-- Теперь это будет работать! */
+
+    /* УБИРАЕМ эти строки. Они больше не нужны или мешают. */
+    /* padding: 6rem 0 0; */
+    /* flex: 0 1 400px; */
+    /* min-width: 400px; */
+    /* margin: 10px; */
 }
 
     .card:hover,
@@ -21,13 +26,23 @@
     }
 
 .card-content {
+    /* --- КЛЮЧЕВЫЕ ИЗМЕНЕНИЯ --- */
+    position: absolute; /* Отвязываем от потока */
+    bottom: 0;          /* Прижимаем к низу карточки */
+    left: 0;
+    right: 0;           /* Растягиваем на всю ширину */
+
+    /* Старые стили, которые все еще нужны */
     --padding: 1.5rem;
     padding: var(--padding);
     background: linear-gradient(hsl(0 0% 0% / 0), hsl(20 0% 0% / 0.3) 20%, hsl(0 0% 0% / 1));
-    height: calc(100% - 6rem);
-    overflow-y: auto;
-    transform: translateY(65%);
+    
+    transform: translateY(65%); /* Эта логика анимации остается прежней */
     transition: transform 400ms ease;
+    overflow-y: auto; /* Оставляем на случай, если контента много */
+
+    /* УБИРАЕМ расчет высоты, который все ломал */
+    /* height: calc(100% - 6rem); */
 }
 
     .card-content > *:not(.card-title) {

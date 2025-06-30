@@ -1,3 +1,5 @@
+ /* App.css*/
+
 @font-face {
     font-family: 'Rubik Glitch';
     font-style: normal;
@@ -54,15 +56,18 @@ body {
 }
 
 .flex-container-for-cards {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid; /* Меняем flex на grid */
+    /* Эта строка создаст столько колонок, сколько поместится, 
+       каждая будет минимум 400px, но сможет растягиваться. */
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 20px; /* Задаем красивый и ровный отступ между карточками */
+    
+    /* Старые свойства flexbox больше не нужны */
     width: 100%;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
-} 
+}
 
 
 h1 {
