@@ -7,6 +7,7 @@
 import VRSlut from '../assets/Images/VRSlut.jpeg'; 
 import Colossus from '../assets/Images/Colossus.jpeg'; 
 import Diver from '../assets/Images/Diver.jpeg'; 
+import Contract from '../assets/Images/Contract.jpeg'; 
 import BlackedSissy from '../assets/Images/Blacked_Sissy.jpeg'; 
 import Exorcist from '../assets/Images/Exorcist.jpeg'; 
 import PrincessQuest from '../assets/Images/Princess_Quest.jpeg'; 
@@ -47,6 +48,7 @@ const CardImages = {
     VRSlut,
     Colossus,
     Diver,
+    Contract,
     BlackedSissy,
     Exorcist,
     PrincessQuest,
