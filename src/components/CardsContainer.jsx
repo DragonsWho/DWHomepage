@@ -37,6 +37,17 @@ export default function CardsContainer() {
                     Button3Link="https://arca.live/b/cyoa/67012984"
                     Button3="Kr."
                 />
+                
+                <CYOA       
+                    Image="Contract"
+                    Title="Unrealistic Contract"
+                    Description = <div>It's a super, super sweet CYOA! Full of joy and comfort! and there are definitely no evil demons here! ....right?<br /><br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Contract/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1jtq0ht/unrealistic_contract_fempov_comfy_big_translation/"
+                    Tags="FemPOV, Translation, Big"
+                    Button3Link="https://arca.live/b/cyoa/119305926?category=%EC%9E%90%EC%9E%91+19&sort=ratingAll&p=1"
+                    Button3="Kr."
+                />  
 
 
                 <CYOA       
