@@ -13,9 +13,11 @@ export default function CardsContainer() {
                     Image="VRSlut"
                     Title="VRSlut"
                     Description = <div>Dreaming of an ideal VRMMORPG tailored to all your tastes? Heh... here, they'll cater to your every kink!<br />Commission by barlog117</div>
-                    GameLink="https://dragonswhore-cyoas.neocities.org/Blacked_Sissy/"
-                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1iq6xzt/blacked_sissy_sissy_pov_bbc_masochistic_slutty_big/"
+                    GameLink="https://dragonswhore-cyoas.neocities.org/VRSlut/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1lnpy7n/vrslut_fempov_extra_lewd_fantasy_corruption/"
                     Tags="FemPOV, Fantasy, EXTRA SLUTTY"
+                    Button3Link="https://dragonswhore-cyoas.neocities.org/VRSlut_Potato_Edition/"
+                    Button3="Mob. ver."
                 />                
                 <CYOA       
                     Image="Colossus"
