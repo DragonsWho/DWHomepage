@@ -6,9 +6,62 @@ export default function CardsContainer() {
     return (
         <div  >
             <div className="flex-container-for-cards">
-
-
-
+                <CYOA       
+                    Image="MadWorld"
+                    Title="Mad World"
+                    Description = <div><br /><br />Merry Christmas!<br /> May you all have a happy isekai in the new year!</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Mad_World/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1n01pfx/exhibitionist_streamer_fempov_translation/"
+                    Tags="Christmas, Short" 
+                />
+                <CYOA
+                    Image="HypnosisArena"
+                    Title="Hypnosis Arena"
+                    Description = <div> Welcome to the arena! Your holes will always be put to good use here!  Oops... I mean, fight the creepy monsters with pride!... with your holes? err... Anything for the victory!<br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Hypnosis_Arena/"
+                    PostLink="https://cyoa.cafe/game/16so1fe5drawwfz"
+                    Tags="FemPov, Card game, Translation"
+                    Button3Link="https://arca.live/b/cyoa/95911994/791555293#c_791555293"
+                    Button3="Kr."
+                />
+                <CYOA
+                    Image="StudCorrector"
+                    Title="Stud Corrector"
+                    Description = <div>Don't like NTR?<br />Ha, you just haven't tried it from the Bull's side yet! <br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Stud_Corrector/"
+                    PostLink="https://cyoa.cafe/game/ew4g2t73704br2g"
+                    Tags="BullPov, Translation"
+                    Button3Link="https://arca.live/u/@Bicct"
+                    Button3="Kr."
+                />       
+                <CYOA
+                    Image="GyaruGlam"
+                    Title="Gyaru Glam!"
+                    Description = <div> Hey! Looks like it's time to have some real fun! The pinkest, loudest, sluttiest, and most fun adventure awaits!<br />Commission by Kagami</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Gyaru_Glam/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1n01pfx/https://www.reddit.com/r/nsfwcyoa/comments/1nn3k1j/gyaru_glam_fempov_big_slutty_pink//"
+                    Tags="FemPov, Big, Slutty, Pink" 
+                />
+                <CYOA
+                    Image="ExhibitionistStreamer"
+                    Title="Exhibitionist Streamer"
+                    Description = <div> I think you can guess what it's about from the title, but I'll say it again – you'll have to do a lot of naked work on camera!<br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Exhibitionist_Streamer/"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1n01pfx/exhibitionist_streamer_fempov_translation/"
+                    Tags="FemPov, Translation"
+                    Button3Link="https://schaden.neocities.org/exibitionism%20streamer/"
+                    Button3="Kr."
+                />       
+                <CYOA       
+                    Image="BadEndings"
+                    Title="Bad Endings"
+                    Description = <div>Feel the real taste of victory! No, seriously. This time, you won!<br />Translated from Korean</div>
+                    GameLink="https://cyoa.cafe/game/0o3cf8j676bgz0c"
+                    PostLink="https://www.reddit.com/r/nsfwcyoa/comments/1mmutpl/bad_endings_dark_dominant_translation/"
+                    Tags="Dark, Dominant, Translation"
+                    Button3Link="https://arca.live/b/cyoa/129187457"
+                    Button3="Kr."
+                />         
                 <CYOA       
                     Image="VRSlut"
                     Title="VRSlut"

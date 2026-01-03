@@ -16,7 +16,7 @@ export default function AdAndChat() {
              
 
             <br /><br />
-            <p>2022-2024 Dragon's Whore</p>
+            <p>2022-2026 Dragon's Whore</p>
         </div>
 
 

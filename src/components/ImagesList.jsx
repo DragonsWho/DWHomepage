@@ -4,6 +4,12 @@
 
 
 
+import MadWorld from '../assets/Images/Mad_World.jpeg';
+import HypnosisArena from '../assets/Images/Hypnosis_Arena.jpeg';
+import StudCorrector from '../assets/Images/Stud_Corrector.jpeg';
+import GyaruGlam from '../assets/Images/Gyaru_Glam.jpeg';
+import ExhibitionistStreamer from '../assets/Images/Exhibitionist_Streamer.jpeg';
+import BadEndings from '../assets/Images/Bad_Endings.jpeg';
 import VRSlut from '../assets/Images/VRSlut.jpeg'; 
 import Colossus from '../assets/Images/Colossus.jpeg'; 
 import Diver from '../assets/Images/Diver.jpeg'; 
@@ -45,6 +51,12 @@ import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    MadWorld,
+    HypnosisArena,
+    StudCorrector,
+    GyaruGlam,
+    ExhibitionistStreamer,
+    BadEndings,
     VRSlut,
     Colossus,
     Diver,

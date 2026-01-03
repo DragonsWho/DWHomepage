@@ -5,7 +5,7 @@ export default function AdAndChat() {
     return (
         <div className="ad-and-chat-container">
             <div className="ad-container">
-                <h2>Commission Queue Full!</h2> but you can find me on Discord as "dragons_whore"
+                <h2>Commission Open!</h2> You can find me on Discord as "dragons_whore"
                 <h2>CYOA.cafe</h2>  <a href="https://cyoa.cafe/">My new project</a> - a handy catalogue for all cyoa!
                 <h2>Support me</h2>
 
