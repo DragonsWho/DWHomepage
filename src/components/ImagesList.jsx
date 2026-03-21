@@ -4,6 +4,9 @@
 
 
 
+import Lewd_Horizon from '../assets/Images/Lewd_Horizon.jpeg';
+import Terrorist from '../assets/Images/Terrorist.jpeg';
+import MagicalGirlParasite from '../assets/Images/Magical_Girl_Parasite.jpeg';
 import MadWorld from '../assets/Images/Mad_World.jpeg';
 import HypnosisArena from '../assets/Images/Hypnosis_Arena.jpeg';
 import StudCorrector from '../assets/Images/Stud_Corrector.jpeg';
@@ -51,6 +54,9 @@ import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    Lewd_Horizon,
+    Terrorist,
+    MagicalGirlParasite,
     MadWorld,
     HypnosisArena,
     StudCorrector,

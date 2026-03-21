@@ -6,6 +6,34 @@ export default function CardsContainer() {
     return (
         <div  >
             <div className="flex-container-for-cards">
+                <CYOA
+                    Image="Lewd_Horizon"
+                    Title="Lewd Horizon" 
+                    Description = <div>Feels like it's been a while since we had a big, epic adventure, huh? Gotta hurry up and save some princess real quick! Or maybe even the whole world? Phew... just don't get too distracted fucking every babe on your way, otherwise you'll never reach the final boss...</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/lewd_horizon/"
+                    PostLink="https://cyoa.cafe/game/z4qwnnrurkzyf9b"
+                    Tags="MalePov, Adventure, Damn Big" 
+                />
+                <CYOA
+                    Image="Terrorist"
+                    Title="Terrorist in the Land of Unicorn" 
+                    Description = <div>Damn terrorist! Get ready for the most gruesome and cruel punishment! And don't even try to pretend you like it, you bastard!<br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Unicorn/"
+                    PostLink="https://cyoa.cafe/game/s22lql6p62014er"
+                    Tags="MalePov, DomPov, Translation"
+                    Button3Link="https://bicyoa.neocities.org/Uniuni/"
+                    Button3="Kr."
+                />
+                <CYOA
+                    Image="MagicalGirlParasite"
+                    Title="Magical Girl Parasite"
+                    Description = <div> It's time to bring vengeance in the name of the moon! Yup, magical girls will save the world! But if you thought Kyubey was a pain in the ass... well, this time your ass is in for something much worse.<br />Translated from Korean</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/mgp/"
+                    PostLink="https://cyoa.cafe/game/4ud2jj0fskrufij"
+                    Tags="FemPov, Translation"
+                    Button3Link="https://schaden.neocities.org/magical%20girl%20parasite/"
+                    Button3="Kr."
+                />
                 <CYOA       
                     Image="MadWorld"
                     Title="Mad World"
