@@ -5,7 +5,37 @@ import CYOA from "./Card"
 export default function CardsContainer() {
     return (
         <div  >
-            <div className="flex-container-for-cards">
+            <div className="flex-container-for-cards"> 
+                <CYOA
+                    Image="Guardian"
+                    Title="Guardian of the Kingdom" 
+                    Description = <div>A truly epic adventure that spans centuries. Immortality that has lasted so long you can barely remember how it all began, a kingdom that you must... protect? Or...</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Guardian_of_the_Kingdom/"
+                    PostLink="https://dragonswhore-cyoas.cyoa.cafe/guardian-of-the-kingdom/"
+                    Tags="Not Lewd, Epic, Damn Big, Translation"
+                    Button3Link="https://arca.live/b/cyoa/124512464"
+                    Button3="Kr."
+                />
+                <CYOA
+                    Image="Paradise"
+                    Title="Paradise" 
+                    Description = <div>A true paradise for masochists, with thousands of monsters who dream of only one thing—fucking your brains out, breaking you down, and turning you into a mindless sex doll! Hah, enjoy!</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/Paradise/"
+                    PostLink="https://cyoa.cafe/game/f9nq6zpvkwz3ahh"
+                    Tags="PreyPov, Monsters, Hentai Island, Translation" 
+                    Button3Link="https://arca.live/b/cyoa/163806423"
+                    Button3="Kr."
+                />
+                <CYOA
+                    Image="Pleasure_World"
+                    Title="Pleasure World" 
+                    Description = <div>A few tentacles certainly won’t stop you from relaxing a bit in this wonderful place! Well... Though I’m not sure there are just “a few” of them...</div>
+                    GameLink="https://dragonswhore-cyoas.neocities.org/pleasure_world/"
+                    PostLink="https://cyoa.cafe/game/18vvkp6k5gv1zf0"
+                    Tags="FemPov, Dream Job, Tentacles, Translation" 
+                    Button3Link="https://arca.live/b/cyoa/172423784"
+                    Button3="Kr."
+                />
                 <CYOA
                     Image="Lewd_Horizon"
                     Title="Lewd Horizon" 

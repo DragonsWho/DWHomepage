@@ -4,6 +4,9 @@
 
 
 
+import Guardian from '../assets/Images/Guardian.jpeg';
+import Paradise from '../assets/Images/Paradise.jpeg';
+import Pleasure_World from '../assets/Images/Pleasure_World.jpeg';
 import Lewd_Horizon from '../assets/Images/Lewd_Horizon.jpeg';
 import Terrorist from '../assets/Images/Terrorist.jpeg';
 import MagicalGirlParasite from '../assets/Images/Magical_Girl_Parasite.jpeg';
@@ -54,6 +57,9 @@ import LureV006Alpha from '../assets/Images/Lure_V006_Alpha.jpeg';
 
 
 const CardImages = {
+    Guardian,
+    Paradise,
+    Pleasure_World,
     Lewd_Horizon,
     Terrorist,
     MagicalGirlParasite,
